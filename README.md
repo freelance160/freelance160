@@ -27,36 +27,59 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
-###
+
 
 <p align="left">TOOLS</p>
 
-###
+
 
 <p align="left">Network</p>
 
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-4B275F?&style=for-the-badge&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-tcpdump-4B275F?&style=for-the-badge&logoColor=white" />
+</div>
 
 
 <p align="left">SIEM</p>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /><img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
-###
+<div>
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /><img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
 
 <p align="left">Cloud</p>
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
-###
+<div>
+  <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
 
-<p align="left">Frameworks</p>
-<img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/-PCI--DSS-005F99?&style=for-the-badge&logoColor=white" />
 
-###
-<p align="left">CERTIFICATIONS</p>
+Frameworks
+
+<div>
+  <img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/-PCI--DSS-005F99?&style=for-the-badge&logoColor=white" />
+</div>
+
+
+<p align="left">Certifications</p>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
-<p align="left">SKILLS & PROJECTS</p>
 
-###
+<p align="left">SKILLS & PROJECTS</p>
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Associated Project</th>
+  </tr>
+  <tr>
+    <td>Skill one</td>
+    <td>project one</td>
+  </tr>
+  <tr>
+    <td>Skill two</td>
+    <td>project two</td>
+  </tr>
+</table>
+
 
 <br clear="both">
