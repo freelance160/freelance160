@@ -39,17 +39,17 @@
 
 
 <p align="left">SIEM</p>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /><img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 ###
 
 <p align="left">Cloud</p>
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 
 ###
 
 <p align="left">Frameworks</p>
-<img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-PCI--DSS-005F99?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/-PCI--DSS-005F99?&style=for-the-badge&logoColor=white" />
 
 ###
 <p align="left">CERTIFICATIONS</p>
