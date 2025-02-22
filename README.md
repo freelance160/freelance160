@@ -72,8 +72,8 @@ Frameworks
     <th>Associated Project</th>
   </tr>
   <tr>
-    <td>Skill one</td>
-    <td>project one</td>
+    <td>Network Analysis</td>
+    <td>Malware Compromise</td>
   </tr>
   <tr>
     <td>Skill two</td>
