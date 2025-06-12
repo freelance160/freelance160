@@ -62,7 +62,7 @@ Frameworks
 
 
 <p align="left">Certifications</p>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /><img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 
 
 <p align="left">SKILLS & PROJECTS</p>
