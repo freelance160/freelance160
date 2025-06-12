@@ -89,6 +89,10 @@ Frameworks
     <td>S3 Object Storage Resource</td>
     <td><a href="https://github.com/freelance160/Hosting-a-Static-Webpage-on-AWS-S3-Storage/blob/main/README.md">Static Web Hosting on an AWS S3 Bucket</a></td>
   </tr>
+   <tr>
+    <td>Security Risk Assessment</td>
+    <td><a href="https://github.com/freelance160/Risk-Assessment-for-Medicare-Clinic-/blob/main/README.md">Risk Assessment, Asset inventory, Risk rating and Mitigation strategies (NIST 800 Framework).</a></td>
+  </tr>
 </table>
 
 
