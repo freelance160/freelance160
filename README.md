@@ -62,7 +62,7 @@
 Frameworks
 
 <div>
-  <img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/-PCI--DSS-005F99?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NIST%20800-6A5ACD?&style=for-the-badge&logoColor=white" />
 </div>
 
 
@@ -91,7 +91,7 @@ Frameworks
   </tr>
    <tr>
     <td>Security Risk Assessment</td>
-    <td><a href="https://github.com/freelance160/Risk-Assessment-for-Medicare-Clinic-/blob/main/README.md">Risk Assessment, Asset inventory, Risk rating and Mitigation strategies (NIST 800 Framework).</a></td>
+    <td><a href="https://github.com/freelance160/Risk-Assessment-for-Medicare-Clinic-/blob/main/README.md">Risk Assessment, Asset inventory, Risk rating and Mitigation strategies (NIST 800 Framework)</a></td>
   </tr>
 </table>
 
