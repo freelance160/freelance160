@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Jerry ...  a security enthusiast, from one of the most beautiful cities in the world.</h2>
+<h2 align="left">Hi 👋! I'm Jerry ...  a cloud infrastructure security enthusiast, from one of the most beautiful cities in the world.</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I landed my first technical support role out of necessity after moving to a new country. Since then, I have developed a profound interest in technology, and solving complex problems. <br><br>My journey has led me to develop a passion for cybersecurity and cloud technology. I am now eager to transition into this field.</p>
+<p align="left">I landed my first technical support role out of necessity after moving to a new country. Since then, I have developed a profound interest in technology, and solving complex problems. <br><br>My journey has led me to develop a passion for cybersecurity and cloud technology. I am currently a Content Delivery Network technical support, continuously improving my technical skills.</p>
 
 ###
 
