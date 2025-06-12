@@ -82,8 +82,8 @@ Frameworks
 
   </tr>
   <tr>
-    <td>Skill two</td>
-    <td>project two</td>
+    <td>Cloud Networking</td>
+    <td><a href="https://github.com/freelance160/AWS-VPC-Networking-with-Application-Load-Balancer-and-Auto-Scaling/blob/main/README.md">AWS VPC with EC2, Subnets, Load Balancer, Auto-Scaling</a></td>
   </tr>
 </table>
 
