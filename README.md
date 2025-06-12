@@ -50,7 +50,12 @@
 <p align="left">Cloud</p>
 
 <div>
-  <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Amazon%20S3-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /> <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" /><img src="https://img.shields.io/badge/-AWS%20Compute-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Storage-569A31?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Networking-146EB4?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Content%20Delivery-FF6600?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Analytics-8C4FFF?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20IAM-4B275F?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
 
