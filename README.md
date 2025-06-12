@@ -43,7 +43,7 @@
 <p align="left">SIEM</p>
 
 <div>
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /><img src="https://img.shields.io/badge/-Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 
@@ -84,6 +84,10 @@ Frameworks
   <tr>
     <td>Cloud Networking</td>
     <td><a href="https://github.com/freelance160/AWS-VPC-Networking-with-Application-Load-Balancer-and-Auto-Scaling/blob/main/README.md">AWS VPC with EC2, Subnets, Load Balancer, Auto-Scaling</a></td>
+  </tr>
+    <tr>
+    <td>S3 Object Storage Resource</td>
+    <td><a href="https://github.com/freelance160/Hosting-a-Static-Webpage-on-AWS-S3-Storage/blob/main/README.md">Static Web Hosting on an AWS S3 Bucket</a></td>
   </tr>
 </table>
 
