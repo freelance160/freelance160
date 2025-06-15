@@ -93,7 +93,7 @@ Frameworks
     <td>Security Risk Assessment</td>
     <td><a href="https://github.com/freelance160/Risk-Assessment-for-Medicare-Clinic-/blob/main/README.md">Risk Assessment, Asset inventory, Risk rating and Mitigation strategies (NIST 800 Framework)</a></td>
   </tr>
-  <td>HTTP Headers on CDN </td>
+  <td>CDN Caching</td>
     <td><a href="https://github.com/freelance160/CDN-and_HTTP-headers/blob/main/README.md">CDN Caching Demonstration with HTTP Headers (AWS S3 + Cyberduck + Postman + CDN)</a></td>
   </tr>
 </table>
